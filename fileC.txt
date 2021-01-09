@@ -1,1 +1,1 @@
-"this is fileC" - version 2 - SQUASH
+"this is fileC" - for pull feature testing
