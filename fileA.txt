@@ -1,1 +1,1 @@
-"this is fileA" - this is version 2
+"this is fileA" - this is for merging
