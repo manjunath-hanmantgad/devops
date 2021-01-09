@@ -1,1 +1,1 @@
-"this is fileB" - for feature branch
+"this is fileB" - for sqaush merge example
